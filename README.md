@@ -1,3 +1,5 @@
+Main Notebook: https://github.com/mnochuba/UsedCarPricePrediction/blob/master/Predicting%20Price%20of%20Used%20Cars.ipynb
+
 In this project, we predict the price of used cars using various machine learning techniques.
 Some of the techniques applied are:
 
