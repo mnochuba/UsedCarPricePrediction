@@ -1,9 +1,6 @@
 # Jupyter Notebook specific files
 .ipynb_checkpoints/
 
-# Notebook metadata and outputs
-*.ipynb
-
 # Environment files
 .env
 *.env
